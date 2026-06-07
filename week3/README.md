@@ -1,2 +1,1 @@
-Developed a Country Intelligence System using K-Means, DBSCAN, Random Forest, and XGBoost to segment countries, detect outliers, and generate data-driven socio-economic insights.
-
+Built a Customer Intelligence System leveraging K-Means, DBSCAN, Random Forest, and XGBoost to identify customer segments, detect anomalies, and generate data-driven business insights.
